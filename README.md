@@ -23,7 +23,7 @@ To play the game, simply visit the GitHub Pages website for this repository, whi
   * Move Down: 2 Key
   * Shoot: 0 Key
 
-* Pause Key: P
+* Pause/Resume Key: P
 
 ### Objective
 
