@@ -3,7 +3,7 @@ This is a 2D space shooter game with both single player and cooperative modes. I
 
 ## Installation
 
-To play the game, simply visit the GitHub Pages website for this repository, which can be found at [https://Gal-Noy.github.io/Space-Shooter-Pro/](https://your-username.github.io/space-shooter-game/).
+To play the game, simply visit the GitHub Pages website for this repository, which can be found at [this link](https://gal-noy.github.io/Space-Shooter-Pro/).
 
 ## Gameplay
 
